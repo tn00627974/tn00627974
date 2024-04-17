@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Redmoon</h1>
-
-
-<h3 align="left">台灣,Taiwan</h3>
+<h1 align="center">Hi 👋, I'm Redmoon</h1> 
+<h3 align="left">I enjoy learning, I enjoy growing, and every day I progress 1% more than the person I was yesterday."</h3>
 
 # <h3 align="left">Languages and Tools:</h3>
 </a>
