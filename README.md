@@ -2,6 +2,24 @@
 
 <h3 align="left">I enjoy learning, I enjoy growing, and every day I progress 1% more than the person I was yesterday."</h3>
 
+
+<div style="display: flex;">
+    <div style="width: 50%;">
+        <h1>hello 👋, I'm Redmoon</h1>
+        <img src="https://github.com/tn00627974/tn00627974/assets/139155210/296b4636-865b-4261-8b05-e633de3cb980" width="500">
+    </div>
+    <div style="width: 50%;">
+        <h3 align="right">Languages and Tools:</h3>
+        <h3 align="right">
+            <a href="https://www.python.org" target="_blank" rel="noreferrer">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+            </a>
+        </h3>
+        <!-- 其他語言和工具的圖標 -->
+    </div>
+</div>
+
+
 ### <h3 align="left">Languages and Tools:</h3>
 </a>
 
