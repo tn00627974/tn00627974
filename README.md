@@ -1,5 +1,6 @@
-<h1 align="center">hello 👋, I'm Redmoon</h1> <img src="https://www.niusnews.com/upload/imgs/default/2018JulP/0723Rabbit/62.gif" width="100">
-
+<div>
+   <h1 align="center"><img src="https://www.niusnews.com/upload/imgs/default/2018JulP/0723Rabbit/6.gif" width="100"> Hello 👋, I'm Redmoon <img src="https://www.niusnews.com/upload/imgs/default/2018JulP/0723Rabbit/62.gif" width="100"></h1> 
+</div>
 
 <div >
    <h3 align="center">I enjoy learning, I enjoy growing, and every day I progress 1% more than the person I was yesterday."</h3>
