@@ -4,7 +4,20 @@
 
 <h3 align="center"> I was a designer and now I like But I like data engineering 📄 and backend development  ⌨️🖱️🖥️ </h3
 
+<div >
+   
+   # 目前累積個人專案 :
+   - [Ai_Face_Linebot](https://github.com/tn00627974/AI-Project) (小組專案)
+   - [Data-Engineering-Project](https://github.com/tn00627974/Data-Engineering-Project)
+   - [Django_Blog](https://github.com/tn00627974/Django_Blog) (持續開發,個人技術文件放置區)
+   
+   # 網路爬蟲工具開發 :
+   - [Selenium_yamol](https://github.com/tn00627974/Selenium_yamol) ((自動爬取 阿摩線上測試網站的內容,提供輸入帳密爬取csv)
+   - [Selenium_goodinfo](https://github.com/tn00627974/Selenium_goodinfo) (自動爬取goodinfo公司面試內容)
+   - [Google_maps_API](https://github.com/tn00627974/Google_maps_API]) (使用Googe API 爬取指定區域店家資訊)
+   - [Instagram_auto_login](https://github.com/tn00627974/Instagram_auto_login) (自動登入IG帳密腳本,提供視窗化界面輸入帳密)
 
+</div>
 
 <div >
    <h3 align="center">I enjoy learning, I enjoy growing, and every day I progress 1% more than the person I was yesterday."</h3>
