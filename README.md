@@ -8,7 +8,7 @@
    
    # 目前累積個人專案 :
    - [Ai_Face_Linebot](https://github.com/tn00627974/AI-Project) (小組專案)
-   - [Data-Engineering-Project](https://github.com/tn00627974/Data-Engineering-Project)
+   - [Data-Engineering-Project](https://github.com/tn00627974/Data-Engineering-Project) (使用ETL data pipeline 將UBER 資料清洗、排程、最後放置在GCP上運行與後續分析 的專案)
    - [Django_Blog](https://github.com/tn00627974/Django_Blog) (持續開發,個人技術文件放置區)
    
    # 網路爬蟲工具開發 :
