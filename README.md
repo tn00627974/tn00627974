@@ -14,7 +14,7 @@
    # 網路爬蟲工具開發 :
    - [Selenium_yamol](https://github.com/tn00627974/Selenium_yamol) (自動爬取 阿摩線上測試網站的內容,提供輸入帳密爬取csv)
    - [Selenium_goodinfo](https://github.com/tn00627974/Selenium_goodinfo) (自動爬取goodinfo公司面試內容)
-   - [Google_maps_API](https://github.com/tn00627974/Google_maps_API]) (使用Googe API 爬取指定區域店家資訊)
+   - [Google_maps_API](https://github.com/tn00627974/Google_maps_API) (使用Googe API 爬取指定區域店家資訊)
    - [Instagram_auto_login](https://github.com/tn00627974/Instagram_auto_login) (自動登入IG帳密腳本,提供視窗化界面輸入帳密)
 
 </div>
