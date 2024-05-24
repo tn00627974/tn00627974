@@ -11,7 +11,7 @@
    - [Data-Engineering-Project](https://github.com/tn00627974/Data-Engineering-Project) (使用ETL data pipeline 將UBER 資料清洗、排程、最後放置在GCP上運行與後續分析 的專案)
    - [Django_Blog](https://github.com/tn00627974/Django_Blog) (持續開發,個人技術文件放置區)
    
-   # 網路爬蟲工具開發 :
+   # 網路爬蟲小型工具開發 :
    - [Selenium_yamol](https://github.com/tn00627974/Selenium_yamol) (自動爬取 阿摩線上測試網站的內容,提供輸入帳密爬取csv)
    - [Selenium_goodinfo](https://github.com/tn00627974/Selenium_goodinfo) (自動爬取goodinfo股票價格內容)
    - [Google_maps_API](https://github.com/tn00627974/Google_maps_API) (使用Googe API 爬取指定區域店家資訊)
