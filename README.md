@@ -22,7 +22,7 @@
 <div >
    <h3 align="center">I enjoy learning, I enjoy growing, and every day I progress 1% more than the person I was yesterday."</h3>
     <h3 align="center">
-         <img src="https://github.com/tn00627974/tn00627974/assets/139155210/f8f5a613-358a-4bc7-8fd0-492d8be7fe98" width="500" >
+         <img src="https://github.com/tn00627974/tn00627974/assets/139155210/31806402-f400-4a34-a5c4-2496865b6237" width="500" >
     </h3>
 </div>
 
