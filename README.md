@@ -9,7 +9,7 @@
    # 目前累積個人專案 :
    - [Ai_Face_Linebot](https://github.com/tn00627974/AI-Project) 小組專案
    - [Data-Engineering-Project](https://github.com/tn00627974/Data-Engineering-Project) ETL data pipeline專案
-   - [Django_Blog](https://github.com/tn00627974/Django_Blog) 持續開發,個人技術文件放置區
+   - [Django_Blog](https://github.com/tn00627974/Django_Blog) 持續維護開發<個人Blog技術文件放置區>
    
    # 網路爬蟲小型工具開發 :
    - [Selenium_yamol](https://github.com/tn00627974/Selenium_yamol) 自動爬取 阿摩線上測試網站的內容,提供輸入帳密爬取csv
