@@ -25,7 +25,15 @@
     </h3>
 </div>
 
+
+
 ### <h3 align="left">Languages and Tools:</h3>
+
+
+<a href="" target="_blank" rel="noreferrer">
+    <img src="https://www.spec-india.com/wp-content/uploads/2023/05/winforms-logo.png" alt="Charp" width="50" height="50"/>
+</a>
+
 </a>
 <a href="" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/csharp/csharp-plain.svg" alt="Charp" width="40" height="40"/>
