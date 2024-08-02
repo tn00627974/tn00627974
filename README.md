@@ -18,7 +18,6 @@
    - [Instagram_auto_login](https://github.com/tn00627974/Instagram_auto_login) 自動登入IG帳密腳本,提供視窗化界面輸入帳密
 
 </div>
-
 <div >
    <h3 align="center">I enjoy learning, I enjoy growing, and every day I progress 1% more than the person I was yesterday."</h3>
     <h3 align="center">
@@ -27,6 +26,9 @@
 </div>
 
 ### <h3 align="left">Languages and Tools:</h3>
+</a>
+<a href="" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/csharp/csharp-plain.svg" alt="Charp" width="40" height="40"/>
 </a>
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
