@@ -25,10 +25,6 @@
     </h3>
 </div>
 
-<a href="" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/csharp/csharp-plain.svg" alt="Charp" width="40" height="40"/>
-</a>
-
 ### <h3 align="left">Languages and Tools:</h3>
 
 <a href="" target="_blank" rel="noreferrer">
