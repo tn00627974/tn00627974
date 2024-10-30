@@ -5,6 +5,7 @@
 <h3 align="center"> I was a designer and now I like But I like data engineering 📄 and backend development  ⌨️🖱️🖥️ </h3
 
 <div >
+
    # 目前累積個人專案 :
    - [Ai_Face_Linebot](https://github.com/tn00627974/AI-Project) 小組專案
    - [Data-Engineering-Project](https://github.com/tn00627974/Data-Engineering-Project) ETL data pipeline專案
