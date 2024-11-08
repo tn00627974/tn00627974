@@ -40,7 +40,7 @@
 </a>
 
 <a href="" target="_blank" rel="noreferrer">
-    <img src="https://www.spec-india.com/wp-content/uploads/2023/05/winforms-logo.png" alt="Charp" width="50" height="50"/>
+    <img src="https://github.com/user-attachments/assets/2ad45921-1574-41a0-bfdf-8e4a006af4d0" alt="Charp" width="50" height="50"/>
 </a>
 
 
