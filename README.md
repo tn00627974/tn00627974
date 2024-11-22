@@ -118,3 +118,8 @@
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
 </a>
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tn00627974&layout=compact)
+
