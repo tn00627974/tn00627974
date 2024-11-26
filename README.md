@@ -3,7 +3,7 @@
 </div>
 
 <h3 align="center"> I was a designer and now I like But I like data engineering 📄 and backend development  ⌨️🖱️🖥️ </h3
-
+1
 <div >
 
    # 目前累積個人專案 :
