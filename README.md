@@ -30,8 +30,8 @@
 
 
 ### <h3 align="left">Languages and Tools:</h3>
-
-<a href="" target="_blank" rel="noreferrer">
+<div>
+   <a href="" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/csharp/csharp-plain.svg" alt="Charp" width="40" height="40"/>
 </a>
 
@@ -42,8 +42,10 @@
 <a href="" target="_blank" rel="noreferrer">
     <img src="https://github.com/user-attachments/assets/2ad45921-1574-41a0-bfdf-8e4a006af4d0" alt="Charp" width="50" height="50"/>
 </a>
+</div>
 
 
+<div>
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </a>
@@ -69,7 +71,7 @@
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
 </a>
-
+</div>
 
 <a href="https://opencv.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
