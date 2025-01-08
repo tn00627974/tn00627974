@@ -2,7 +2,7 @@
    <h1 align="center"><img src="https://www.niusnews.com/upload/imgs/default/2018JulP/0723Rabbit/6.gif" width="100"> Hello 👋, I'm Redmoon <img src="https://www.niusnews.com/upload/imgs/default/2018JulP/0723Rabbit/62.gif" width="100"></h1> 
 </div>
 
-<h3 align="center"> I was a designer and now I like But I like data engineering 📄 and backend development  ⌨️🖱️🖥️ </h3
+<h3 align="center"> I was a designer and now I like data engineering 📄 and backend development  ⌨️🖱️🖥️ </h3
 
 <div >
 
