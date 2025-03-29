@@ -57,7 +57,6 @@
 </a>
 
 
-
 <a href="https://django.palletsprojects.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
 </a> 
@@ -104,6 +103,10 @@
 </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+</a>
+</a>
+<a href="https://https://redis.io/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
 </a>
 
 ### <h3 align="left">Cloud service:</h3>
