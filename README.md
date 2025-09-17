@@ -18,14 +18,13 @@
    ✅ <a href="https://github.com/tn00627974/Google_maps_API" target="_blank">Google_maps_API</a> 使用 Google API 爬取指定區域店家資訊<br>
    ✅ <a href="https://github.com/tn00627974/Instagram_auto_login" target="_blank">Instagram_auto_login</a> 自動登入 IG 帳密腳本，提供視窗化界面輸入帳密<br>
 
-
-   - WinForm & WPF :
+   <!-- - WinForm & WPF : -->
 
 </div>
 <div >
-   <h3 align="center">I enjoy learning, I enjoy growing, and every day I progress 1% more than the person I was yesterday."</h3>
+   <h2 align="center">I enjoy learning, I enjoy growing, and every day I progress 1% more than the person I was yesterday."</h3>
     <h3 align="center">
-         <img src="https://github.com/tn00627974/tn00627974/assets/139155210/31806402-f400-4a34-a5c4-2496865b6237" width="500" >
+         <!--<img src="https://github.com/tn00627974/tn00627974/assets/139155210/31806402-f400-4a34-a5c4-2496865b6237" width="500" >-->
     </h3>
 </div>
 
