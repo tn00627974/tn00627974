@@ -7,6 +7,7 @@
 <div >
 
    # 目前累積個人專案 :
+   ✅ <a href="https://github.com/tn00627974/rss-notity-bot" target="_blank">rss-notity-bot</a> RSS多源快訊平台 (支援推送平台:LineBot,Discord,飛書,telegram)<br>
    ✅ <a href="https://github.com/tn00627974/AI-Project" target="_blank">Ai_Face_Linebot</a> 小組專案<br>
    ✅ <a href="https://github.com/tn00627974/Data-Engineering-Project" target="_blank">Data-Engineering-Project</a> ETL data pipeline專案<br>
    ✅ <a href="https://github.com/tn00627974/Django_Blog" target="_blank">Django_Blog</a> 持續維護開發&lt;個人Blog技術文件放置區&gt;<br>
